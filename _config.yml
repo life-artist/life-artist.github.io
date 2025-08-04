@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "谢宇翔的学术主页"
+title                    : "Xie Yuxiang's site"
 title_separator          : "-"
 name                     : &name "Xie Yuxiang"
 description              : &description "北京大学大二信息与计算科学专业学生"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "谢宇翔"
+  name             : "Yuxiang Xie(谢宇翔)"
   avatar           : "photo.png"
   bio              : "Peking University"
   location         : "China Beijing"
