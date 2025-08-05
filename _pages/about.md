@@ -20,6 +20,8 @@ The website is still under construction. Codes and course notes are uploading qu
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=e16-fKv7n4hT20ncH0M8qf8PzGSrE9gzzUsF5NK7TDM&cl=ffffff&w=a"></script>
 <h2>Contact me</h2>
 
+**Email:** [2300011079@stu.pku.edu.cn](mailto:2300011079@stu.pku.edu.cn)
 
-[Email](mailto:2300011079@stu.pku.edu.cn) / [Github](https://github.com/life-artist)
+**Other Links:**
+- [🐙 GitHub](https://github.com/life-artist)
 
